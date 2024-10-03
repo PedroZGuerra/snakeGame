@@ -38,10 +38,6 @@ Para rodar o projeto, é necessario ter instalado:
 
 6. Execute o jogo:
 
-    ```bash
-    ./jogo
-    ```
-
 ## Controles
 
 - **W** - Mover para cima
